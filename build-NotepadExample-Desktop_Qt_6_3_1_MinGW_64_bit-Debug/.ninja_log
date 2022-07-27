@@ -1,0 +1,21 @@
+# ninja log v5
+14	227	6806264519864477	NotepadExample_autogen/timestamp	bcced1e5dbbb5b5d
+237	293	6806034302015324	E:/Works/Qt Course/NotePad/build-NotepadExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/NotepadExample_autogen/EWIEGA46WW/qrc_res.cpp	562a1c17770095b0
+14	227	6806264519864477	NotepadExample_autogen/mocs_compilation.cpp	bcced1e5dbbb5b5d
+14	227	6806264519864477	E:/Works/Qt Course/NotePad/build-NotepadExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/NotepadExample_autogen/timestamp	bcced1e5dbbb5b5d
+14	227	6806264519864477	E:/Works/Qt Course/NotePad/build-NotepadExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/NotepadExample_autogen/mocs_compilation.cpp	bcced1e5dbbb5b5d
+239	2834	6806264545916307	CMakeFiles/NotepadExample.dir/mainwindow.cpp.obj	d8f1204b0e4ed4cd
+733	3288	6806263255238035	CMakeFiles/NotepadExample.dir/main.cpp.obj	38d0c7d72154eb2d
+736	3307	6806263255431571	CMakeFiles/NotepadExample.dir/NotepadExample_autogen/mocs_compilation.cpp.obj	26688f5d8db88f43
+2834	3083	6806264548375771	NotepadExample.exe	ad602cbe64ada4e4
+237	293	6806034302015324	NotepadExample_autogen/EWIEGA46WW/qrc_res.cpp	562a1c17770095b0
+914	1173	6806204856901264	CMakeFiles/NotepadExample.dir/NotepadExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	a557a70c343a05c
+5	193	6806266148866395	NotepadExample_autogen/timestamp	bcced1e5dbbb5b5d
+5	193	6806266148866395	NotepadExample_autogen/mocs_compilation.cpp	bcced1e5dbbb5b5d
+5	193	6806266148866395	E:/Works/Qt Course/NotePad/build-NotepadExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/NotepadExample_autogen/timestamp	bcced1e5dbbb5b5d
+5	193	6806266148866395	E:/Works/Qt Course/NotePad/build-NotepadExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/NotepadExample_autogen/mocs_compilation.cpp	bcced1e5dbbb5b5d
+203	265	6806266149574479	NotepadExample_autogen/EWIEGA46WW/qrc_res.cpp	562a1c17770095b0
+203	265	6806266149574479	E:/Works/Qt Course/NotePad/build-NotepadExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/NotepadExample_autogen/EWIEGA46WW/qrc_res.cpp	562a1c17770095b0
+268	425	6806266151196526	CMakeFiles/NotepadExample.dir/NotepadExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	a557a70c343a05c
+265	2392	6806266170849219	CMakeFiles/NotepadExample.dir/mainwindow.cpp.obj	d8f1204b0e4ed4cd
+2392	2610	6806266173003606	NotepadExample.exe	ad602cbe64ada4e4
